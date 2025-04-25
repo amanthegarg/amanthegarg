@@ -16,7 +16,7 @@
                                                                                                                                                                                                                                  
        
 <h1 align="center">👋 Hi there, I'm Aman Garg</h1>
-<h3 align="center">A passionate problem solver and aspiring full-stack developer</h3>
+<h3 align="center">A passionate problem solver and full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanthegarg&label=Profile%20views&color=0e75b6&style=flat" alt="amanthegarg" /> </p>
 
